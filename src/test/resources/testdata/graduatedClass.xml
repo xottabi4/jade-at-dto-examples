@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Class>
+    <Year>111</Year>
+    <Students>
+        <Student>
+            <Name>name1</Name>
+            <Surname>surname1</Surname>
+        </Student>
+        <Student>
+            <Name>name2</Name>
+            <Surname>surname2</Surname>
+        </Student>
+    </Students>
+    <Teacher>
+        <Name>teachername</Name>
+        <Surname>teachersurname</Surname>
+    </Teacher>
+</Class>
